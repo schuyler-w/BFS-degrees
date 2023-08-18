@@ -1,4 +1,4 @@
-# CS50 AI - Week 0 - Degrees
+# Degrees of Separation
 
 ## Task
 
@@ -52,7 +52,4 @@ Requires Python(3) to run:
   OR
   $ python degrees.py
 
-
-## Acknowledgements
-Actor / Movie information courtesy of IMDb.
 
